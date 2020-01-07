@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3807d8f8-c49e-4e86-ac83-7867873a0708/resourceGroups/linuxappservice/providers/Microsoft.Web/sites/linux-app-wwo",
+    "appService.deploySubpath": ""
+}
